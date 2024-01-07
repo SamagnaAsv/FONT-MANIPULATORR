@@ -1,0 +1,35 @@
+.heading
+{
+    margin-top: 0px;
+    width: 100%;
+    font-size: 23px;
+    box-shadow: 3px 3px 6px grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.footer
+{
+    line-height: 2;
+    background-color: grey;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    color: white;
+    font-weight: bold;
+    font-family: monospace;
+}
+
+canvas
+{
+    border-radius: 15px;
+    border: 2px rgb(0, 0, 0) solid;
+    box-shadow: 6px 6px 6px grey;
+}
